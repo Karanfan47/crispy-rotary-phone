@@ -1,1 +1,3 @@
 # crispy-rotary-phone
+
+all
